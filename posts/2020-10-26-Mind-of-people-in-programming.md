@@ -1,5 +1,5 @@
 #Heading 
-# Mind of people in Programmng
+# Mind of people in Programming
 
 majority of people getting passed from 12 and entering in the engineering field are interesting in learning programming and doing some great stuff with technology.
 this post will make you go through thoughts that you may come across or are already!
