@@ -10,7 +10,7 @@ payment systems, smart utility meters, and store anti-theft devices.<br>
 
 <h3>WHAT ARE THE MAIN STANDARDS?</h3>
 
- 	It depends on what market you are targeting and what the product is. For example, a table with wireless charging capabilities needs to conform to both furniture and electrical and electronic (E&E) standards. Regulations will also differ between markets, although there may be overlap.<br>
+It depends on what market you are targeting and what the product is. For example, a table with wireless charging capabilities needs to conform to both furniture and electrical and electronic (E&E) standards. Regulations will also differ between markets, although there may be overlap.<br>
 A good starting point for manufacturers is IEC 62368-1:2018 Audio/video, information and communication technology equipment – Part 1: Safety requirements. Recognized in many markets, this is the main safety standard for devices.<br>
 It should be noted that Bluetooth and WLAN are only two among many IoT technologies that manufacturers must consider when looking at accessing markets around the globe. Others include ANT+, LoRa, and Z-Wave.<br>
 
