@@ -19,5 +19,5 @@ Now that you're all fired up with ideas from excellent examples, Find snazzy lit
 Unity Playground has been released just in time for Global Game Jam 2019 - share your creations on Twitter with #GGJ1 and #madewithunity and join the conversation on the forum. Go play.
 
 
-Authur:Pratik Lohakare
+Authur:Pratik Lohakare<br>
 Country:India
